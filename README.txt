@@ -29,3 +29,7 @@ st.json(
         'qwe': 'Key'
     }
 )
+ Working with charts
+ --------------------------------
+ #the 04_linechart.py has all the charts 
+ #listed in it
